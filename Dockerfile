@@ -1,5 +1,5 @@
 FROM node:18
-MAINTAINER praveen "satish@gmail.com"
+MAINTAINER praveen "satish1414@gmail.com"
 COPY ./index
 WORKDIR /index
 RUN npm install
